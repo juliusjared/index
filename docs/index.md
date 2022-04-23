@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/juliusjared/index/edit/index.html/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+ <html lang= "en">
+ <meta charset = "UTF-8">
+ <title>Jay's Experiment</title>
+</head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<style>
+h1 {
+text-align: center;
+color: white;
+}
+h3 {
+text-align: center;
+color: white;
+}
+body { 
+   background-color: black;
+}
+#man {
+   position: relative;
+   display: block; 
+   margin: 0 auto; 
+}
+footer {
+text-align: center;
+color: white;
+}
+</style>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<main>
+ <body>
+  <h1>Jay's Experiment W/ Coding</h1>
+   <a href="2homepage.html"><img src="celebration6.gif" alt="man" id="man" loop></a>
+  <h3>Welcome</h3>
+ </body>
+</main>
+<hr>
+<footer>code for fun
+ &copy J.Julius
+</footer>
+</hmtl>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliusjared/index/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
